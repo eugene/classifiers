@@ -1,0 +1,23 @@
+savefig.facecolor: eeeeee
+axes.edgecolor: 333333 # aaaaaa
+axes.facecolor: ffffff
+axes.grid: True
+axes.labelcolor: 333333 # 555555
+#axes.labelsize: x-small
+#axes.titlesize: small
+text.color: 333333
+font.size: 20
+#xtick.labelsize: xx-small
+#ytick.labelsize: xx-small
+xtick.color: 333333 # aaaaaa
+ytick.color: 333333 # aaaaaa
+grid.color: cccccc
+grid.linewidth: 0.5
+grid.alpha: 0.8
+lines.linewidth: 1
+figure.dpi: 300 # 221
+legend.fancybox: False
+legend.fontsize: medium
+legend.facecolor: white
+legend.edgecolor: 0.8
+legend.frameon: True
