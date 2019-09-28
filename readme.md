@@ -6,3 +6,6 @@ Install required packages (`numpy`, `sklearn` and `matplotlib`) and generate `pl
 
 ## :bar_chart: Result
 ![Generated plot](plot.png)
+
+## Credits
+Gaël Varoquaux and Andreas Müller

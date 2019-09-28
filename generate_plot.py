@@ -1,4 +1,8 @@
-import numpy as np
+# Code source: Gaël Varoquaux
+#              Andreas Müller
+# Modified for documentation by Jaques Grobler
+# License: BSD 3 clauseimport numpy as np
+
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 from sklearn.model_selection import train_test_split
